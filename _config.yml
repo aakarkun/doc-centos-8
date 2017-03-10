@@ -2,4 +2,4 @@ theme: jekyll-theme-midnight
 name: Hank Quinlan, Horrible Cop
 markdown: kramdown
 
-permalink: /blog/:year/:month/:day/:title
+permalink: doc-centos-7/blog/:year/:month/:day/:title
