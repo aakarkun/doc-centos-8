@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Installing Lamp"
+title: "Installing Lemp"
 date: 2017-03-07
 
 ---
